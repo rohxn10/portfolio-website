@@ -31,10 +31,7 @@ function HeroSection() {
                         />
                     </h1>
                     <p className="text-white text-base sm:text-lg lg:text-xl mb-3">
-                        man, fuck all that makeup, you fine
-                        better tell all them niggas you mine
-                        when im with you i get nervous
-                        it gotta be love, it's a sign
+                        I'm a web developer and UI/UX designer based in India. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
                     </p>
                     <div>
                         <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-red-700 via-red-500 to-yellow-500 text-white hover:bg-red-400">
