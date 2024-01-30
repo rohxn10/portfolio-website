@@ -1,4 +1,3 @@
-import { defaults } from "autoprefixer";
 import React from "react";
 
 function MenuOverlay({links}) {
