@@ -17,11 +17,11 @@ function HeroSection() {
                             sequence={[
                                 "Jake Brigance",
                                 1000, 
-                                'Web Developer',
+                                "Web Developer",
                                 1000,
-                                'UI/UX Designer',
+                                "UI/UX Designer",
                                 1000,
-                                'Gamer',
+                                "Gamer",
                                 1000
                             ]}
                             wrapper="span"
@@ -31,7 +31,7 @@ function HeroSection() {
                         />
                     </h1>
                     <p className="text-white text-base sm:text-lg lg:text-xl mb-3">
-                        I'm a web developer and UI/UX designer based in India. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+                        I am a web developer and UI/UX designer based in India. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
                     </p>
                     <div>
                         <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-red-700 via-red-500 to-yellow-500 text-white hover:bg-red-400">
