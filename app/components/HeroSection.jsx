@@ -2,7 +2,7 @@
 import React from "react";
 import Image from "next/image";
 
-import { TypeAnimation } from 'react-type-animation';
+import { TypeAnimation } from "react-type-animation";
 
 
 function HeroSection() {
@@ -11,7 +11,7 @@ function HeroSection() {
             <div className="grid grid-cols-1 lg:grid-cols-12">
                 <div className="col-span-7 place-self-center text-center sm:text-left">
                     <h1 className="text-red-500 mb-4 text-4xl sm:text-5xl lg:text-6xl font-extrabold ">
-                        <span className="text-white">Hello, I'm {" "}</span>
+                        <span className="text-white">Hello, I am {" "}</span>
                         <br></br>
                         <TypeAnimation
                             sequence={[
@@ -34,7 +34,7 @@ function HeroSection() {
                         I am a web developer and UI/UX designer based in India. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
                     </p>
                     <div>
-                        <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-red-700 via-red-500 to-yellow-500 text-white hover:bg-red-400">
+                        <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-red-700 via-red-500 to-yellow-500 text-white hover:text-black">
                             Contact me
                         </button>
                         <button className="px-6 py-3 w-full sm:w-fit rounded-full bg-transparent hover:bg-slate-400 text-white border border-white mt-3 ">
@@ -51,7 +51,6 @@ function HeroSection() {
                             lg:height={400}"
                             width={200}
                             height={200}
-
                         />
                     </div>
                 </div>
