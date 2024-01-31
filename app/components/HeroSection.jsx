@@ -15,7 +15,7 @@ function HeroSection() {
                         <br></br>
                         <TypeAnimation
                             sequence={[
-                                "Jake Brigance",
+                                "Rohan Gopakumar",
                                 1000, 
                                 "Web Developer",
                                 1000,
